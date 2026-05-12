@@ -11,3 +11,11 @@ String koneksi `guest:guest@localhost:5672` adalah format URI standar yang digun
 ![Terminal ketika menerima pesan](screenshots/received.png)
 
 Gambar di atas menunjukkan terminal dari program subscriber yang berhasil menerima dan memproses lima buah pesan yang dikirimkan oleh program publisher melalui RabbitMQ. Setelah program subscriber dijalankan menggunakan perintah cargo run, aplikasi tersebut memasuki mode standby untuk mendengarkan antrean (queue) bernama user_created. Segera setelah program publisher mengeksekusi pengiriman lima event, subscriber menangkap pesan-pesan tersebut secara real-time dan asinkron. Output pada terminal menampilkan data UserCreatedEventMessage yang telah dideserialisasi, mencakup user_id dan user_name yang menyertakan identitas Ahmad Anggara Bayuadji Prawirosoenoto [2406495514]. Hal ini membuktikan bahwa arsitektur event-driven menggunakan protokol AMQP telah terimplementasi dengan benar, di mana pesan berhasil diteruskan dari publisher ke broker, dan akhirnya sampai ke subscriber dengan integritas data yang terjaga.
+
+
+![](screenshots/image2.png)
+![](screenshots/image3.png)
+
+Implementasi sistem ini menggunakan arsitektur event-driven dengan RabbitMQ sebagai message broker untuk menjamin distribusi pesan secara asinkron. Melalui mekanisme round-robin, beban kerja terbagi secara otomatis ke beberapa subscriber, sehingga stabilitas sistem tetap terjaga meski salah satu penerima mengalami perlambatan proses.
+
+Antrean pada broker berperan penting sebagai penyangga (buffer) yang mencegah hilangnya data saat terjadi lonjakan trafik data yang tidak seimbang antara pengirim dan penerima. Sebagai langkah optimasi di masa depan, efisiensi penggunaan CPU pada perulangan program dan ketahanan koneksi (error handling) perlu ditingkatkan agar sistem lebih responsif dan tangguh dalam skala yang lebih besar.
