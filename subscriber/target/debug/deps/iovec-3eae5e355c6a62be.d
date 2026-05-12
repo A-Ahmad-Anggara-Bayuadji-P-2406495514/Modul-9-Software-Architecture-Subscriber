@@ -1,0 +1,10 @@
+/Users/anggarabayuadji/Documents/GitHub/Modul-9-Software-Architecture/subscriber/target/debug/deps/iovec-3eae5e355c6a62be.d: /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/lib.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/mod.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/unix.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/unix.rs
+
+/Users/anggarabayuadji/Documents/GitHub/Modul-9-Software-Architecture/subscriber/target/debug/deps/libiovec-3eae5e355c6a62be.rlib: /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/lib.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/mod.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/unix.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/unix.rs
+
+/Users/anggarabayuadji/Documents/GitHub/Modul-9-Software-Architecture/subscriber/target/debug/deps/libiovec-3eae5e355c6a62be.rmeta: /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/lib.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/mod.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/unix.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/unix.rs
+
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/lib.rs:
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/mod.rs:
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/sys/unix.rs:
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iovec-0.1.4/src/unix.rs:

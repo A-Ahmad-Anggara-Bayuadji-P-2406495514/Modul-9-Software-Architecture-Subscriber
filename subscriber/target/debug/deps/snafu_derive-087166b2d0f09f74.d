@@ -1,0 +1,9 @@
+/Users/anggarabayuadji/Documents/GitHub/Modul-9-Software-Architecture/subscriber/target/debug/deps/snafu_derive-087166b2d0f09f74.d: /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/Users/anggarabayuadji/Documents/GitHub/Modul-9-Software-Architecture/subscriber/target/debug/deps/libsnafu_derive-087166b2d0f09f74.dylib: /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs /Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs:
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs:
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs:
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs:
+/Users/anggarabayuadji/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs:
